@@ -1,11 +1,63 @@
 html{
-background-color:#cabfb6;
-}
+    background-color:#cabfb6;
+    }
+    
+    body{
+    background-color: white;
+    margin: 0px auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 500px;
+    height: 800px;
+    }
 
-body{
-background-color: white;
-margin: 0px auto;
-padding-left: 100px;
-padding-right: 100px;
-width: 500px;
+    
+    p, ol, li{
+        font-family: Open Sans;
+    }
+
+    h2{
+        font-family: Proza Libre;
+    }
+
+    #button{
+    font-family: Proza Libre;
+    border: none;
+    background-color:#c9793b;
+    color: black;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    }
+
+    #button1{
+      background-color: #a4c93b;  
+      border: none;
+      text-align: center;
+      border-radius: 5px;
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-top: 6px;
+      padding-bottom: 4px;
+    }
+
+    #button2{
+        background-color: #b6bcca;
+        border: none;
+        border-radius: 5px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 6px;
+        padding-bottom: 4px;
+        text-align: center;
+    }
+
+    #id{
+    font-family: Proza Libre;
+    }
+.center {
+    text-align: center;
 }
